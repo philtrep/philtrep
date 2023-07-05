@@ -4,6 +4,6 @@
 -->
 Call me Phil, I'm from Montreal, Quebec.
 
-You'll find me professionally writing enterprise code w/ NodeJS & Python and dabbling with DevOps/Infra (ECS/Fargate, Kubernetes, Terraform, Ansible). I have fun with digital hoarding and networking on the weekends. If I'm writing code it's built, shipped and running on Docker.
+I _try_ to make complicated stuff complex and complex stuff simple. The simple stuff I'm not too worried about.
 
-I work at a fantastic digital-solutions agency called **[OSEDEA](https://www.osedea.com/)**, look us up if you need a strong software/design team.
+I work at a fantastic digital-solutions agency called **[OSEDEA](https://www.osedea.com/)**, look us up if you need a battle-tested dev team.
