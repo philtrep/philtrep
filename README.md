@@ -6,4 +6,4 @@ Call me Phil, I'm from Montreal, Quebec.
 
 I _try_ to make complicated stuff complex and complex stuff simple. The simple stuff I'm not too worried about.
 
-I work at a fantastic digital-solutions agency called **[OSEDEA](https://www.osedea.com/)**, look us up if you need a battle-tested dev team.
+I work at a fantastic software development and innovation agency called **[OSEDEA](https://www.osedea.com/)**, look us up if you need a strong battle-tested dev team.
